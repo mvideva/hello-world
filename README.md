@@ -3,16 +3,16 @@ _Repository for CMPINF 0010 Skills Lab 5_
 
 ### README
 
-**Installation:** open file in jupyterhub and run as Python code.
+**Installation** <br>Open the file in jupyterhub and run as Python code.
 
-**Purpose:** The program Something.ipynb asks for the user's name and pronouns and responds with "Hello (name)! You said you use (pronouns) pronouns."
+**Purpose** <br>The program Something.ipynb asks for the user's name and pronouns and responds with "Hello (name)! You said you use (pronouns) pronouns."
 
-**Usage:** Type and submit your name and pronouns when prompted. 
+**Usage** <br>Type and submit your name and pronouns when prompted. 
 
-**Contributing:** If you would like to contribute to this project, visit JupyterLab's [contributing information page](https://jupyterlab.readthedocs.io/en/latest/developer/contributing.html).
+**Contributing** <br>If you would like to contribute to this project, visit JupyterLab's [contributing information page](https://jupyterlab.readthedocs.io/en/latest/developer/contributing.html).
 
-_(Code of Conduct for Something.ipynb can be found in CODE-OF-CONDUCT.md)_
+***
 
-_(License for Something.ipynb can be found in LICENSE.md)_
+Licensing for Something.ipynb can be found in [LICENSE.md](https://github.com/mvideva/hello-world/blob/main/LICENSE.md). <br>The _Academic Free License v. 3.0._ was chosen due to its flexebility in private use, distribution, and modification of the selected software.
 
-The chosen code of conduct and license were used for Something.ipynb because ----------------------------------
+Code of Conduct for Something.ipynb can be found in [CODE-OF-CONDUCT.md](https://github.com/mvideva/hello-world/blob/main/CODE-OF-CONDUCT.md). <br>The _Contributor Covenant Code of Conduct_ was chosen due to its clear and appropriate outline of behavior expected towards the selected software.
